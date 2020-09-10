@@ -1,0 +1,23 @@
+Delta
+3/5
+C.  Westmeyer,  19
+        ---------------------DELTA
+K.  Abhyankar,  19
+        ---------------------DELTA
+
+Southwest
+2/5
+C.  Westmeyer,  19
+        ---------------------SOUTHWEST
+D. Bonczewski, 19
+        ---------------------SOUTHWEST
+
+Alaska
+3/5
+A.  Narain,  20
+        ---------------------ALASKA
+K.  Abhyankar,  19
+        ---------------------ALASKA
+N.  Clayman,  19
+        ---------------------ALASKA
+
